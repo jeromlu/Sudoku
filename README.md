@@ -2,4 +2,9 @@
 Sudoku solver
 
 - Simple not very fast sudoku solver. It uses backtracking programming technique (raw power).
-- I has simple user interface created in PyQt5
+- It has simple user interface created in PyQt5
+
+## Usage
+
+- Download icons folder, sudoku_solver.pyw and susoku_widget_class.py
+- then reun python sudoku_solver.pyw
