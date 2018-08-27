@@ -6,5 +6,5 @@ Sudoku solver
 
 ## Usage
 
-- Download icons folder, sudoku_solver.pyw and susoku_widget_class.py
-- then reun python sudoku_solver.pyw
+- Download icons folder, sudoku_solver.pyw and sudoku_widget_class.py
+- then run sudoku_solver.pyw from favourite IDE
